@@ -1,2 +1,7 @@
 # dw_matrix
-5 day challenge with DataWorkshop
+<br>
+"projekt transformacja, czyli poznaj reguły gry"
+
+# part 1
+
+
